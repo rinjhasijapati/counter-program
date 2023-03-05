@@ -1,0 +1,31 @@
+#countLabel{
+    font-size: 90px;
+    position: relative;
+    top: 230px;
+    left: 700px;
+}
+
+body{
+    background: linear-gradient(#ffafbd,#ffc3a0);
+}
+
+#decreaseBtn{
+    font-size: 25px;
+    position: relative;
+    top: 240px;
+    left: 550px;
+}
+
+#resetBtn{
+    font-size: 25px;
+    position: relative;
+    top: 240px;
+    left: 560px;
+}
+
+#increaseBtn{
+    font-size: 25px;
+    position: relative;
+    top: 240px;
+    left: 570px;
+}
